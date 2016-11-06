@@ -1,1 +1,1 @@
-# ctfs
+# Some scripts from CTF writeups
